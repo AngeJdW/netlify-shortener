@@ -1,4 +1,4 @@
-## This code has been forked from kencdodds. It is use with the URL shortener application.
+## This code has been forked from kencdodds. It is uses the URL shortener application.
 <div align="center">
 <h1>netlify-shortener</h1>
 
